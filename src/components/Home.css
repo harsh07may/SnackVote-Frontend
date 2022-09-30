@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@100;300;400;700;900&family=Raleway:wght@300;400;500&display=swap");
+.flex-container {
+  display: flex;
+  flex-direction: row;
+  width: 100vw;
+  height: 100vh;
+}
+.text-container {
+  width: 600px;
+  padding: 50px;
+}
+.heading {
+  font-family: "Raleway", sans-serif;
+  font-size: 70px;
+  font-weight: 900;
+  line-height: 82.18px;
+}
+p {
+  font-family: "Montserrat", sans-serif;
+}
+.image-container {
+  width: 100px;
+  height: 100px;
+  padding: 100px;
+}
