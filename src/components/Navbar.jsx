@@ -20,7 +20,7 @@ const Navbar = () => {
       </NavLink>
       <NavLink className="nav-link" to="/">
         <Button
-          style={{ backgroundColor: "#80CC28" }}
+          style={{ backgroundColor: "#80CC28", borderColor:"#80CC28"}}
           type="primary"
           size="medium"
         >
